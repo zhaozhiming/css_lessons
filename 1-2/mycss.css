@@ -1,0 +1,27 @@
+li strong{
+  color: red;
+}
+
+#pid a{
+  color: #00755f;
+}
+#divid {
+  color: red;
+}
+
+.pclass a{
+  color: green;
+}
+
+.divclass {
+  color: red;
+}
+
+[title]{
+  color: yellow;
+}
+
+[title=te]{
+  color: red;
+}
+
