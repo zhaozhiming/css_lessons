@@ -1,0 +1,23 @@
+body{
+  /* background-color: red; */
+  background-image: url('python.png');
+  background-repeat: no-repeat;
+  /* background-position: center top; */
+  /* background-attachment: fixed; */
+  background-size: 100px 100px;
+  text-align: center;
+}
+
+/* p{ */
+  /* width: 150px; */
+  /* padding: 10px; */
+  /* background-color: #0014ff; */
+/* } */
+
+#pid{
+  text-indent: 5em;
+}
+
+
+
+
