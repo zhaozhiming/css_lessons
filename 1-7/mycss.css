@@ -1,0 +1,40 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+h4{
+  color: blue;
+}
+.p1{
+  color: cadetblue;
+}
+.p2{
+  font-size: 20px;
+}
+.p3{
+  font-style: italic;
+}
+.p1.p2{
+  font-style: italic;
+}
+
+[title]{
+  color: cadetblue;
+}
+[title='foo']{
+  color: green;
+}
+[title='bar']{
+  color: red;
+}
+p strong{
+  color: red;
+}
+
+h1 > strong{
+  color: cadetblue;
+  font-size: 60px;
+}
+li + li{
+  color: cadetblue;
+}
